@@ -6,15 +6,10 @@ import PropTypes from 'prop-types';
 import {
   View,
   Text,
-  TextInput
 } from 'react-native';
 
 export default class StringDistinction extends Component {
   static propTypes = {
-    frontStyle: TextInput.propTypes.style,
-    delimiterStyle: TextInput.propTypes.style,
-    behindStyle: TextInput.propTypes.style,
-    style: View.propTypes.style,
     delimiter: PropTypes.string,
     value: PropTypes.string,
   };
