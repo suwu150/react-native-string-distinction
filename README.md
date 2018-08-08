@@ -3,7 +3,7 @@ react-native-string-distinction,divide the character string according to a certa
 
 The final rendering
 ----
-![The final rendering](https://github.com/suwu150/static-resource/blob/master/images/react-native-string-distion.gif?raw=true)
+![The final rendering](https://github.com/suwu150/react-native-text-segment/blob/master/react-native-text-segment.gif?raw=true)
 
 Installation:  
 -------------------------------------- 
